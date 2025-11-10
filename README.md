@@ -1,5 +1,5 @@
 <h2>Hi 👋, I'm Shreya</h2>
-<img align="right" src="https://i.pinimg.com/originals/21/db/d3/21dbd346a371c5bceffd6d61e491c3b0.gif" width="180" style="margin-top:-10px;">
+<img align="right" src="https://i.pinimg.com/originals/21/db/d3/21dbd346a371c5bceffd6d61e491c3b0.gif" width="180" style="margin-top:-5px;">
 
 I'm **Shreya** — a passionate Computer Science student from India 🇮🇳, who loves exploring the intersection of **engineering, innovation, and speed**.  
 I’m currently learning and building projects around **full-stack development**, **data structures**, and **performance engineering**, with a strong focus on writing clean and maintainable code.  
