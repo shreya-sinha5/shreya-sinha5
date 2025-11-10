@@ -3,14 +3,12 @@
 
 I'm **Shreya** — a passionate Computer Science student from India 🇮🇳, who loves exploring the intersection of **engineering, innovation, and speed**.  
 My curiosity drives me to dive deep into how things work — from algorithms that make systems efficient, to design patterns that make projects scalable and elegant.  
-
 I’m currently learning and building projects around **full-stack development**, **data structures**, and **performance engineering**, with a strong focus on writing clean and maintainable code.  
-
 I believe every project is an opportunity to learn something new — whether it’s a concept, a tool, or a mindset.  
 Always learning, always building 🚀
 
 
-<h4 align="left">Languages and Tools:</h4>
+##Languages and Tools
 
 ---
 <p align="left"> 
