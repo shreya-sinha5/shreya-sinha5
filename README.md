@@ -1,4 +1,20 @@
 <h2>Hi 👋, I'm Shreya</h2>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1;">
+    <h2>Hello there, fellow <code>&lt;coders/&gt;</code>! 👋</h2>
+    <p>
+      I'm <b>Shreya</b> — a Computer Science student from India 🇮🇳, passionate about blending engineering, innovation, and speed.  
+      I love exploring <b>full-stack development</b>, <b>data structures</b>, and <b>performance engineering</b>.  
+      Always learning, always building 🚀  
+    </p>
+  </div>
+
+  <div style="margin-left: 20px; position: relative;">
+    <img src="https://i.pinimg.com/originals/21/db/d3/21dbd346a371c5bceffd6d61e491c3b0.gif" 
+         alt="Panda" width="180" 
+         style="position: relative; top: -30px; right: 0;">
+  </div>
+</div>
 <table>
   <tr>
     <td width="70%" align="left">
