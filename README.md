@@ -9,7 +9,9 @@ I’m currently learning and building projects around **full-stack development**
 I believe every project is an opportunity to learn something new — whether it’s a concept, a tool, or a mindset.  
 Always learning, always building 🚀
 
+---
 <h4 align="left">Languages and Tools:</h4>
+---
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
