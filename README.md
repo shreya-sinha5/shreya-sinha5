@@ -2,7 +2,6 @@
 <table>
   <tr>
     <td width="60%" align="left">
-      <h2>Hi 👋, I'm Shreya</h2>
       <h4>
         A passionate <b>Computer Science student</b> from India who loves blending engineering, innovation, and speed. <br><br>
         Exploring <b>full-stack development</b>, <b>data structures</b>, and <b>performance engineering</b>. <br><br>
@@ -11,7 +10,7 @@
       </h4>
     </td>
     <td width="40%" align="center">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="300">
+      <img src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NmY2FheHNuZ2xrbzVydDBsMnZ2NXY4YzdrdXByMWRwMHMzMWxuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif)" alt="Coding" width="300">
     </td>
   </tr>
 </table>
