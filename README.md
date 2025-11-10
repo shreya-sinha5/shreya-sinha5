@@ -1,6 +1,20 @@
 <h2>Hi 👋, I'm Shreya</h2>
-<h4>A Computer Science student from India, passionate about blending engineering, innovation, and speed. Exploring full-stack development, data structures, and performance engineering | Always learning, always building. On a mission to build impactful projects and learn something new every single day.</h4>
-
+<table>
+  <tr>
+    <td width="60%" align="left">
+      <h2>Hi 👋, I'm Shreya</h2>
+      <h4>
+        A passionate <b>Computer Science student</b> from India who loves blending engineering, innovation, and speed. <br><br>
+        Exploring <b>full-stack development</b>, <b>data structures</b>, and <b>performance engineering</b>. <br><br>
+        Driven by curiosity and creativity — always learning, always building. <br><br>
+        On a mission to craft impactful projects and grow a little every single day 🚀
+      </h4>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="300">
+    </td>
+  </tr>
+</table>
 ---
 
 <h4 align="left">Languages and Tools:</h4>
