@@ -3,7 +3,8 @@
   <div style="flex: 1;">
     <h2>Hello there, fellow <code>&lt;coders/&gt;</code>! 👋</h2>
     <p>
-      A passionate <b>Computer Science student</b> from India who loves blending engineering, innovation, and speed. <br><br>
+      A passionate <b>Computer Science student</b> from India who loves<br>
+      blending engineering, innovation, and speed. <br>
         Exploring <b>full-stack development</b>, <b>data structures</b>, and <b>performance engineering</b>. <br><br>
         Driven by curiosity and creativity — always learning, always building. <br><br>
         On a mission to craft impactful projects and grow a little every single day 🚀 
