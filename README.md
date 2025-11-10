@@ -1,52 +1,9 @@
 <h2>Hi 👋, I'm Shreya</h2>
-<img align="right" src="https://i.pinimg.com/originals/21/db/d3/21dbd346a371c5bceffd6d61e491c3b0.gif" width="180" style="margin-top:-20px;">
+<img align="right" src="https://i.pinimg.com/originals/21/db/d3/21dbd346a371c5bceffd6d61e491c3b0.gif" width="180" style="margin-top:-10px;">
 
 I'm **Shreya** — a Computer Science student from India 🇮🇳, passionate about blending engineering, innovation, and speed.  
 I love exploring **full-stack development**, **data structures**, and **performance engineering**.  
 Always learning, always building 🚀
-
-
-<figure style="float: right; margin-left: 20px; margin-top: -20px; width: 20px;">
-  <img src="https://i.pinimg.com/originals/21/db/d3/21dbd346a371c5bceffd6d61e491c3b0.gif" alt="Panda" style="width: 20; height: auto;">
-</figure>
-A Computer Science student from India, passionate about blending engineering, innovation, and speed. Exploring full-stack development, data structures, and performance engineering | Always learning, always building. On a mission to build impactful projects and learn something new every single day.
-
-
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1;">
-    <h2>Hello there, fellow <code>&lt;coders/&gt;</code>! 👋</h2>
-    <p>
-      A passionate <b>Computer Science student</b> from India who loves<br>
-      blending engineering, innovation, and speed. <br>
-        Exploring <b>full-stack development</b>, <b>data structures</b>, and <b>performance engineering</b>. <br><br>
-        Driven by curiosity and creativity — always learning, always building. <br><br>
-        On a mission to craft impactful projects and grow a little every single day 🚀 
-    </p>
-  </div>
-
-  <div style="margin-left: 20px; position: relative;">
-    <img src="https://i.pinimg.com/originals/21/db/d3/21dbd346a371c5bceffd6d61e491c3b0.gif" 
-         alt="Panda" width="80" 
-         style="position: relative; top: -30px; right: 0;">
-  </div>
-</div>
-
-
-<table>
-  <tr>
-    <td width="70%" align="left">
-      <h4>
-        A passionate <b>Computer Science student</b> from India who loves blending engineering, innovation, and speed. <br><br>
-        Exploring <b>full-stack development</b>, <b>data structures</b>, and <b>performance engineering</b>. <br><br>
-        Driven by curiosity and creativity — always learning, always building. <br><br>
-        On a mission to craft impactful projects and grow a little every single day 🚀
-      </h4>
-    </td>
-    <td width="30%" align="center">
-      <img src="https://i.pinimg.com/originals/21/db/d3/21dbd346a371c5bceffd6d61e491c3b0.gif" alt="Panda" width="200" style="object-fit: cover; margin: 0; padding: 0;">
-    </td>
-  </tr>
-</table>
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
