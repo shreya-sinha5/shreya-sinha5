@@ -3,9 +3,10 @@
   <div style="flex: 1;">
     <h2>Hello there, fellow <code>&lt;coders/&gt;</code>! 👋</h2>
     <p>
-      I'm <b>Shreya</b> — a Computer Science student from India 🇮🇳, passionate about blending engineering, innovation, and speed.  
-      I love exploring <b>full-stack development</b>, <b>data structures</b>, and <b>performance engineering</b>.  
-      Always learning, always building 🚀  
+      A passionate <b>Computer Science student</b> from India who loves blending engineering, innovation, and speed. <br><br>
+        Exploring <b>full-stack development</b>, <b>data structures</b>, and <b>performance engineering</b>. <br><br>
+        Driven by curiosity and creativity — always learning, always building. <br><br>
+        On a mission to craft impactful projects and grow a little every single day 🚀 
     </p>
   </div>
 
