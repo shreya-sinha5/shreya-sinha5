@@ -1,7 +1,7 @@
 <h2>Hi 👋, I'm Shreya</h2>
 <table>
   <tr>
-    <td width="60%" align="left">
+    <td width="70%" align="left">
       <h4>
         A passionate <b>Computer Science student</b> from India who loves blending engineering, innovation, and speed. <br><br>
         Exploring <b>full-stack development</b>, <b>data structures</b>, and <b>performance engineering</b>. <br><br>
@@ -9,12 +9,11 @@
         On a mission to craft impactful projects and grow a little every single day 🚀
       </h4>
     </td>
-    <td width="40%" align="center">
-      <img src="https://i.pinimg.com/originals/21/db/d3/21dbd346a371c5bceffd6d61e491c3b0.gif" alt="Coding" width="300">
+    <td width="30%" align="center">
+      <img src="https://i.pinimg.com/originals/21/db/d3/21dbd346a371c5bceffd6d61e491c3b0.gif" alt="Panda" width="200" style="object-fit: cover; margin: 0; padding: 0;">
     </td>
   </tr>
 </table>
----
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
