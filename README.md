@@ -1,6 +1,6 @@
 <h2>Hi 👋, I'm Shreya</h2>
-<figure style="float: right; margin-left: 20px; margin-top: -20px; width: 200px;">
-  <img src="https://i.pinimg.com/originals/21/db/d3/21dbd346a371c5bceffd6d61e491c3b0.gif" alt="Panda" style="width: 200; height: auto;">
+<figure style="float: right; margin-left: 20px; margin-top: -20px; width: 20px;">
+  <img src="https://i.pinimg.com/originals/21/db/d3/21dbd346a371c5bceffd6d61e491c3b0.gif" alt="Panda" style="width: 20; height: auto;">
 </figure>
 A Computer Science student from India, passionate about blending engineering, innovation, and speed. Exploring full-stack development, data structures, and performance engineering | Always learning, always building. On a mission to build impactful projects and learn something new every single day.
 
@@ -19,10 +19,12 @@ A Computer Science student from India, passionate about blending engineering, in
 
   <div style="margin-left: 20px; position: relative;">
     <img src="https://i.pinimg.com/originals/21/db/d3/21dbd346a371c5bceffd6d61e491c3b0.gif" 
-         alt="Panda" width="180" 
+         alt="Panda" width="80" 
          style="position: relative; top: -30px; right: 0;">
   </div>
 </div>
+
+
 <table>
   <tr>
     <td width="70%" align="left">
