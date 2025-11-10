@@ -10,7 +10,7 @@
       </h4>
     </td>
     <td width="40%" align="center">
-      <img src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://i.pinimg.com/originals/21/db/d3/21dbd346a371c5bceffd6d61e491c3b0.gif)" alt="Coding" width="300">
+      <img src="https://i.pinimg.com/originals/21/db/d3/21dbd346a371c5bceffd6d61e491c3b0.gif" alt="Coding" width="300">
     </td>
   </tr>
 </table>
